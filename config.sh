@@ -14,4 +14,4 @@ ssl_mode = \"postgresql://postgres:9ZN1xjjYjoZhw2mFJd69@containers-us-west-91.ra
 max_open = 25
 max_idle = 25
 max_lifetime = \"300s\"
-" > config.toml
+" 
